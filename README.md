@@ -14,6 +14,14 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+<div>
+    <a href="https://www.loom.com/share/a424754806334b29ae0df0da1699a300">
+    </a>
+    <a href="https://www.loom.com/share/a424754806334b29ae0df0da1699a300">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a424754806334b29ae0df0da1699a300-a450f0c4970a22d7-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 Favorite Apps
 1. Reddit
